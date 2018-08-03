@@ -1,0 +1,1 @@
+package com.dubbo.service;/** * @program: dubboTestDemoOne * @description: * @author: gonghuihui * @create: 2018-07-31 15:27 **/public interface EasyCommonService {    String helloService(String name);}
